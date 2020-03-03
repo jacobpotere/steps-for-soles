@@ -1,0 +1,25 @@
+.text {
+  background-color: #3e8ada;
+  padding: 70px 0;
+}
+.comp {
+  background-color: #010101;
+}
+.nav {
+  background-color: #010101;
+}
+.info {
+  background-color: #010101;
+}
+#button {
+  background-color: #ff0000;
+}
+
+.backround {
+  background-size: 1350px 1500px;
+  background-image: url(https://i.pinimg.com/originals/7a/32/ae/7a32ae8248bd2e5ac88283c9d55759e0.jpg);
+}
+h1 {
+  font-weight: lighter;
+  font-size: 60px;
+}

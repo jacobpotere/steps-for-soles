@@ -1,0 +1,50 @@
+.runners {
+
+}
+.rice-bg {
+  background: url('https://cdn.shopify.com/s/files/1/1127/7066/articles/real1_1400x.progressive.jpg?v=1534507002');
+  background-size: cover;
+  height: 400px;
+}
+.brand {
+  font-family: indie flower;
+  padding-left: 600px;
+  font-size: 100px;
+}
+.slogan {
+  font-family: homemade apple;
+  padding-left: 665px;
+  font-size: 30px;
+}
+.sponsor {
+  width: 680px;
+  height: 425px;
+}
+.text {
+  background-color: #3e8ada;
+  padding: 70px 30px;
+}
+.donate {
+  background-color: #ff0000;
+}
+.button {
+  background-color: #ff0000;
+}
+.comp {
+  background-color: #010101;
+}
+.content {
+  background-color: #09b360;
+  padding: 70px 30px;
+}
+.nav {
+  background-color: #010101;
+}
+.video {
+}
+.info {
+  background-color: #010101;
+}
+.people {
+
+}
